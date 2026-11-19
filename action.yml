@@ -8,7 +8,7 @@ runs:
      shell: bash
      run: echo "This is Action 1"
    - name: Calling dependency
-     uses: gh-actions-creator/actions-level-0@v1.0.1    # v1.0.1
+     uses: gh-actions-creator/actions-level-0@v1.0.0    # v1.0.0
 branding:
  icon: arrow-right
  color: red
